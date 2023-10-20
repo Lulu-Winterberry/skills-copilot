@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "name": "Zoom zoom Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
